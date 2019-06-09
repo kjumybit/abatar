@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZZZ_HKR_ACT</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>ACT Messages</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Unknown exception occured.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>&amp;1&amp;2&amp;3&amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Create TC instance using class &amp;1: Unknwon attribute &amp;2 for context data.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Create TS instance using class &amp;1: Unknwon attr. &amp;2 for context ref. data</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT># Registry ==============================================================</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>Registry error: Component &amp;1 not found in registry.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>Registry error: Class &amp;1 already registered for Component &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>029</MSGNR>
+     <TEXT># Serializer &amp; JSON Reader / Writer =====================================</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>030</MSGNR>
+     <TEXT>Serializer Error: Name of framework object not detected.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>031</MSGNR>
+     <TEXT>Serializer Error: Framework object &amp;1 not supported.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>032</MSGNR>
+     <TEXT>JSON Reader: Unexpected end of JSON string.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>033</MSGNR>
+     <TEXT>JSON Reader: Unexpected sXML node type. Expect &amp;1 but get &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>034</MSGNR>
+     <TEXT>JSON Reader: Unexpected JSON type. Expect &amp;1 but get &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>035</MSGNR>
+     <TEXT>JSON Reader: Unexpected JSON object. Expect &amp;1 but get &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>036</MSGNR>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>040</MSGNR>
+     <TEXT>Serializer Error [Context Node]: Unexpected node type &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>049</MSGNR>
+     <TEXT># General ===============================================================</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>050</MSGNR>
+     <TEXT>Invalid Parameter: &amp;1 &amp;2</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>051</MSGNR>
+     <TEXT>Generic Exception: &amp;1&amp;2&amp;3&amp;4</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <MSGNR>070</MSGNR>
+     <TEXT># xxx ======================</TEXT>
+    </T100>
+   </T100>
+   <I18N_LANGS>
+    <LANGU>D</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>D</SPRSL>
+     <ARBGB>ZZZ_HKR_ACT</ARBGB>
+     <STEXT>ACT Messages</STEXT>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>Es ist eine unbekannte Ausnahme aufgetreten.</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>&amp;1&amp;2&amp;3&amp;4</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>Erzeuge TF Instanz mit Klasse &amp;1: Unbekanntes Attr. &amp;2 f�r Kontextdaten.</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>Erzeuge TS Instanz mit Klasse &amp;1: Unbek. Attr. &amp;2 f�r Kontextdaten-Ref.</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>020</MSGNR>
+     <TEXT>Registry Fehler: Komponente &amp;1 wurde nicht in der Registry gefunden</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>021</MSGNR>
+     <TEXT>Registry Fehler: Klasse &amp;1 ist schon für die Komponente &amp;2 registriert.</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>030</MSGNR>
+     <TEXT>Serialisierer Fehler: Name des Framework Objektes nicht erkannt.</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>031</MSGNR>
+     <TEXT>Serialisierer Fehler: Framework Objektes &amp;1 nicht unterstützt.</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>032</MSGNR>
+     <TEXT>JSON Reader: Unerwartetes Ende des JSON Strings.</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>033</MSGNR>
+     <TEXT>JSON Reader: Unerwarteder sXML Kontentyp: Erwarte &amp;1 aber erhielt &amp;2.</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>035</MSGNR>
+     <TEXT>JSON Reader: Unerwartetes JSON Objekt. Erwarte &amp;1, aber erhalte &amp;2.</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>040</MSGNR>
+     <TEXT>Serialisierer Fehler [Kontext Knoten]: Unerwarteter Knotentyp &amp;1.</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>050</MSGNR>
+     <TEXT>Ung�ltiger Parameter: &amp;1 &amp;2</TEXT>
+    </item>
+    <item>
+     <SPRSL>D</SPRSL>
+     <MSGNR>051</MSGNR>
+     <TEXT>Allgemeine Ausnahme: &amp;1&amp;2&amp;3&amp;4</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

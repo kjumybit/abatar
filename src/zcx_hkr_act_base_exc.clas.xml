@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>ACT: Base Exception</DESCRIPT>
+    <CATEGORY>40</CATEGORY>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+     <CMPNAME>CREATE_FROM_SYMSG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Create Excception from SY-MSG parameters</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+     <CMPNAME>GET_TEXT_ID_FROM_SYMSG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get initialized Text ID from SY-MSG parameters</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+     <CMPNAME>MV_MSGV1</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ABAP System Field: Message Variable</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+     <CMPNAME>MV_MSGV2</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ABAP System Field: Message Variable</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+     <CMPNAME>MV_MSGV3</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ABAP System Field: Message Variable</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+     <CMPNAME>MV_MSGV4</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>ABAP System Field: Message Variable</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+     <CMPNAME>RAISE_FROM_BAPIRET</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Raise Excception from BAPIRET message</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+     <CMPNAME>RAISE_FROM_BAPIRETTAB</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Raise Excception from BAPIRET list</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCX_HKR_ACT_BASE_EXC</CLSNAME>
+     <CMPNAME>RAISE_FROM_SYMSG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Raise Excception from SY-MSG parameters</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
