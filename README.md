@@ -1,2 +1,3 @@
 # abatar
-ABAP Task Runner: Framework for automated testing and process automation
+ABAP Task Runner: A Framework for automated testing and process automation
+
