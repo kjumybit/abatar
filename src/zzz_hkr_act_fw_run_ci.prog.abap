@@ -254,6 +254,14 @@ CLASS zcl_hkr_act_exec_fut_cur_sess IMPLEMENTATION.
 *  **TODO: Throw dynamic framework exception
       ).
 
+      "// work around for missing msg. texts returned from adapter
+      loop at lr_action->logger->mt_messages REFERENCE INTO data(lr_msg)
+        where message is INITIAL and not number is INITIAL.
+        MESSAGE id lr_msg->id TYPE lr_msg->type NUMBER lr_msg->number
+          with lr_msg->message_v1 lr_msg->message_v2 lr_msg->message_v3 lr_msg->message_v4
+          into lr_msg->message.
+      endloop.
+
       IF lr_action->success = abap_false.
         cs_run_fut-success = abap_false.
         EXIT.
